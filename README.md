@@ -69,9 +69,9 @@ MWSTAGE2020_05ではライブラリ更新が必要です（今後のリリース
 
 ### TWELITE STAGEによる書き換え
 
-DIO_TransはTWELITE SDKのmwxライブラリ上で記述された Act です。**ActEx_Sns_vl53l1x**ディレクトリを`MWSTAGE/MWSDK/Act_samples/`に格納します。TWELITE STAGE 上でのビルドと書き換えが可能になります。
+**ActEx_Sns_vl53l1x**はTWELITE SDKのmwxライブラリ上で記述された Act です。**ActEx_Sns_vl53l1x**ディレクトリを`MWSTAGE/MWSDK/Act_samples/`に格納します。TWELITE STAGE 上でのビルドと書き換えが可能になります。
 
-DIO_Trans は親機と子機で同じファームウェアを書き込んでください。
+**ActEx_Sns_vl53l1x**は親機と子機で同じファームウェアを書き込んでください。
 
 ファームウェアを書き込む手順は以下となります。
 
@@ -113,7 +113,7 @@ TWELITE STAGE 0.8.9 の画面表示例です。
 q: PAL_MAG                                           
 ```
 
-DIO_Transを選択後ビルドが始まります。無事ビルドが終わるとファームウェアが書き込まれます。
+**ActEx_Sns_vl53l1x**を選択後ビルドが始まります。無事ビルドが終わるとファームウェアが書き込まれます。
 
 ```
 
